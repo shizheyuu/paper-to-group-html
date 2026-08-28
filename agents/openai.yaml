@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献组会 HTML"
+  short_description: "将化学论文 PDF 整理为离线单文件 HTML 组会幻灯片"
+  default_prompt: "Use $paper-to-group-html to 把这篇 PDF 做成组会 HTML。"
